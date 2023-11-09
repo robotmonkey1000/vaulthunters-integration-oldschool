@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.robotmonkey1000.VaultIntegration.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "vaultintegration.refmap.json",
+  "mixins": [
+    "MixinVaultSpawner",
+    "MixinBossSpawner"
+  ],
+  "minVersion": "0.8"
+}
